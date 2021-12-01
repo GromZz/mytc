@@ -7,7 +7,6 @@ flex-direction: column;
 width: 100vw;
 height: 100vh;
 background-color: #6775ee;">
-<img src="https://raw.githubusercontent.com/PAXANDDOS/PAXANDDOS/main/weevely/weevely-banner.png" style="width: 80%">
 <h1 style="display:block;
 font-family: Poppins, Arial, Helvetica;
 color: rgb(250, 249, 250);
